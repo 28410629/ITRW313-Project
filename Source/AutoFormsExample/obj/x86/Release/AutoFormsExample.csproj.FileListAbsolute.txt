@@ -1,0 +1,48 @@
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\MVS_2017\AutoFormsExample\bin\x86\Release\AutoFormsExample.exe.config
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\MVS_2017\AutoFormsExample\bin\x86\Release\AutoFormsExample.exe
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\MVS_2017\AutoFormsExample\bin\x86\Release\AutoFormsExample.pdb
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\MVS_2017\AutoFormsExample\bin\x86\Release\CLIPSCLRWrapper.dll
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\MVS_2017\AutoFormsExample\bin\x86\Release\CLIPSCLRWrapper.pdb
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\MVS_2017\AutoFormsExample\obj\x86\Release\AutoFormsExample.csprojAssemblyReference.cache
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\MVS_2017\AutoFormsExample\obj\x86\Release\AutoFormsExample.AutoFormsExample.resources
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\MVS_2017\AutoFormsExample\obj\x86\Release\AutoFormsExample.Properties.Resources.resources
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\MVS_2017\AutoFormsExample\obj\x86\Release\AutoFormsExample.csproj.GenerateResource.cache
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\MVS_2017\AutoFormsExample\obj\x86\Release\AutoFormsExample.csproj.CoreCompileInputs.cache
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\MVS_2017\AutoFormsExample\obj\x86\Release\AutoFormsExample.csproj.CopyComplete
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\MVS_2017\AutoFormsExample\obj\x86\Release\AutoFormsExample.exe
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\MVS_2017\AutoFormsExample\obj\x86\Release\AutoFormsExample.pdb
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\MVS_2017\AutoFormsExample\bin\x86\Release\auto.clp
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\MVS_2017\AutoFormsExample\bin\x86\Release\auto_en.clp
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\MVS_2017\AutoFormsExample\obj\x86\Release\AutoFormsExample.Facts.resources
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\AutoFormsExample\bin\x86\Release\auto.clp
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\AutoFormsExample\bin\x86\Release\auto_en.clp
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\AutoFormsExample\bin\x86\Release\CLIPSCLRWrapper.dll
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\AutoFormsExample\bin\x86\Release\CLIPSCLRWrapper.pdb
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\AutoFormsExample\obj\x86\Release\AutoFormsExample.csprojAssemblyReference.cache
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\AutoFormsExample\obj\x86\Release\AutoFormsExample.AutoFormsExample.resources
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\AutoFormsExample\obj\x86\Release\AutoFormsExample.Facts.resources
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\AutoFormsExample\obj\x86\Release\AutoFormsExample.Properties.Resources.resources
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\AutoFormsExample\obj\x86\Release\AutoFormsExample.csproj.GenerateResource.cache
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\AutoFormsExample\obj\x86\Release\AutoFormsExample.csproj.CoreCompileInputs.cache
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\AutoFormsExample\obj\x86\Release\AutoFormsExample.csproj.CopyComplete
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\AutoFormsExample\bin\x86\Release\AutoFormsExample.exe.config
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\AutoFormsExample\bin\x86\Release\AutoFormsExample.exe
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\AutoFormsExample\bin\x86\Release\AutoFormsExample.pdb
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\AutoFormsExample\obj\x86\Release\AutoFormsExample.exe
+C:\Users\Coenraad\Desktop\Project Take 2\Source\3 Visual Studio\AutoFormsExample\obj\x86\Release\AutoFormsExample.pdb
+C:\Users\Coenraad\Desktop\Vehicle_Diagnostic_Expert_System\Source\AutoFormsExample\bin\x86\Release\auto.clp
+C:\Users\Coenraad\Desktop\Vehicle_Diagnostic_Expert_System\Source\AutoFormsExample\bin\x86\Release\auto_en.clp
+C:\Users\Coenraad\Desktop\Vehicle_Diagnostic_Expert_System\Source\AutoFormsExample\bin\x86\Release\AutoFormsExample.exe.config
+C:\Users\Coenraad\Desktop\Vehicle_Diagnostic_Expert_System\Source\AutoFormsExample\bin\x86\Release\AutoFormsExample.exe
+C:\Users\Coenraad\Desktop\Vehicle_Diagnostic_Expert_System\Source\AutoFormsExample\bin\x86\Release\AutoFormsExample.pdb
+C:\Users\Coenraad\Desktop\Vehicle_Diagnostic_Expert_System\Source\AutoFormsExample\bin\x86\Release\CLIPSCLRWrapper.dll
+C:\Users\Coenraad\Desktop\Vehicle_Diagnostic_Expert_System\Source\AutoFormsExample\bin\x86\Release\CLIPSCLRWrapper.pdb
+C:\Users\Coenraad\Desktop\Vehicle_Diagnostic_Expert_System\Source\AutoFormsExample\obj\x86\Release\AutoFormsExample.csprojAssemblyReference.cache
+C:\Users\Coenraad\Desktop\Vehicle_Diagnostic_Expert_System\Source\AutoFormsExample\obj\x86\Release\AutoFormsExample.AutoFormsExample.resources
+C:\Users\Coenraad\Desktop\Vehicle_Diagnostic_Expert_System\Source\AutoFormsExample\obj\x86\Release\AutoFormsExample.Facts.resources
+C:\Users\Coenraad\Desktop\Vehicle_Diagnostic_Expert_System\Source\AutoFormsExample\obj\x86\Release\AutoFormsExample.Properties.Resources.resources
+C:\Users\Coenraad\Desktop\Vehicle_Diagnostic_Expert_System\Source\AutoFormsExample\obj\x86\Release\AutoFormsExample.csproj.GenerateResource.cache
+C:\Users\Coenraad\Desktop\Vehicle_Diagnostic_Expert_System\Source\AutoFormsExample\obj\x86\Release\AutoFormsExample.csproj.CoreCompileInputs.cache
+C:\Users\Coenraad\Desktop\Vehicle_Diagnostic_Expert_System\Source\AutoFormsExample\obj\x86\Release\AutoFormsExample.csproj.CopyComplete
+C:\Users\Coenraad\Desktop\Vehicle_Diagnostic_Expert_System\Source\AutoFormsExample\obj\x86\Release\AutoFormsExample.exe
+C:\Users\Coenraad\Desktop\Vehicle_Diagnostic_Expert_System\Source\AutoFormsExample\obj\x86\Release\AutoFormsExample.pdb
